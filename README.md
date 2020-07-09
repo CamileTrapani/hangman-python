@@ -1,2 +1,11 @@
 # hangman-python
-python
+
+Developing Hangman with Python.
+
+       +----+
+       |    |
+       O    |
+      /|\   |
+      / \   |
+            |
+      ==========
