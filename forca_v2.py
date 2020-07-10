@@ -3,8 +3,8 @@
 # Jogo da forca
 # POO
 
-# importar arquivos
-import random
+# # importar arquivos
+# import random
 
 # Criar tabuleiro usando LISTA
 tabuleiro=['''

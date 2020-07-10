@@ -1,3 +1,6 @@
 abacate
 trufa
 martelo
+tijolo
+repolho
+carteira

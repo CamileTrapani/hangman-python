@@ -4,7 +4,7 @@
 # POO
 
 # importar arquivos
-import random
+# import random
 
 # Criar tabuleiro usando LISTA
 tabuleiro=['''
@@ -65,7 +65,7 @@ class Hangman:
             self.errou_letra = []
             self.acertou_letra = []
 
-      def guess(self, letter):  # metodo para a pessoa chutar uma letra
+      def guess(self, letter):  #  para a pessoa chutar uma letra
                                 # e o computador verificar se ela já foi utilizada
             if letter in self.word and letter not in self.acertou_letra:
                   self.acertou_letra.append(letter)
